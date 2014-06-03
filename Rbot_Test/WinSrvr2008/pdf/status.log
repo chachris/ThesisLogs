@@ -1,0 +1,354 @@
+
+Session Start: Sun Apr 13 09:59:50 2014
+Session Ident: Status Window
+-
+02[09:59] * Connect retry #1 127.0.0.1 (6667)
+-
+02[09:59] * Unable to connect to server (Connection refused)
+-
+02[09:59] * Connect retry #2 127.0.0.1 (6667)
+-
+02[09:59] * Unable to connect to server (Connection refused)
+-
+02[10:00] * Connect retry #3 127.0.0.1 (6667)
+-
+02[10:00] * Unable to connect to server (Connection refused)
+-
+02[10:00] * Connect retry #4 127.0.0.1 (6667)
+-
+02[10:00] * Unable to connect to server (Connection refused)
+-
+02[10:00] * Connect retry #5 127.0.0.1 (6667)
+-
+02[10:00] * Unable to connect to server (Connection refused)
+-
+02[10:00] * Connect retry #6 127.0.0.1 (6667)
+-
+02[10:00] * Unable to connect to server (Connection refused)
+-
+02[10:00] * Connect retry #7 127.0.0.1 (6667)
+-
+02[10:00] * Unable to connect to server (Connection refused)
+-
+02[10:00] * Connect retry #8 127.0.0.1 (6667)
+-
+02[10:00] * Unable to connect to server (Connection refused)
+-
+02[10:00] * Connect retry #9 127.0.0.1 (6667)
+-
+02[10:00] * Unable to connect to server (Connection refused)
+-
+02[10:00] * Connect retry #10 127.0.0.1 (6667)
+-
+02[10:00] * Unable to connect to server (Connection refused)
+-
+02[10:00] * Connect retry #11 127.0.0.1 (6667)
+-
+02[10:00] * Unable to connect to server (Connection refused)
+-
+02[10:00] * Connect retry #12 127.0.0.1 (6667)
+-
+02[10:00] * Unable to connect to server (Connection refused)
+-
+02[10:00] * Connect retry #13 127.0.0.1 (6667)
+-
+02[10:00] * Unable to connect to server (Connection refused)
+-
+02[10:00] * Connect retry #14 127.0.0.1 (6667)
+-
+02[10:00] * Unable to connect to server (Connection refused)
+-
+02[10:00] * Connect retry #15 127.0.0.1 (6667)
+-
+02[10:00] * Unable to connect to server (Connection refused)
+-
+02[10:00] * Connect retry #16 127.0.0.1 (6667)
+-
+02[10:00] * Unable to connect to server (Connection refused)
+-
+02[10:00] * Connect retry #17 127.0.0.1 (6667)
+-
+02[10:01] * Unable to connect to server (Connection refused)
+-
+02[10:01] * Connect retry #18 127.0.0.1 (6667)
+-
+02[10:01] * Unable to connect to server (Connection refused)
+-
+02[10:01] * Connect retry #19 127.0.0.1 (6667)
+-
+02[10:01] * Unable to connect to server (Connection refused)
+-
+02[10:01] * Connect retry #20 127.0.0.1 (6667)
+-
+02[10:01] * Unable to connect to server (Connection refused)
+-
+02[10:01] * Connect retry #21 127.0.0.1 (6667)
+-
+02[10:01] * Unable to connect to server (Connection refused)
+-
+02[10:01] * Connect retry #22 127.0.0.1 (6667)
+-
+02[10:01] * Unable to connect to server (Connection refused)
+-
+02[10:01] * Connect retry #23 127.0.0.1 (6667)
+-
+02[10:01] * Unable to connect to server (Connection refused)
+-
+02[10:01] * Connect retry #24 127.0.0.1 (6667)
+-
+02[10:01] * Unable to connect to server (Connection refused)
+-
+02[10:01] * Connect retry #25 127.0.0.1 (6667)
+-
+02[10:01] * Unable to connect to server (Connection refused)
+-
+02[10:01] * Connect retry #26 127.0.0.1 (6667)
+-
+02[10:01] * Unable to connect to server (Connection refused)
+-
+02[10:01] * Connect retry #27 127.0.0.1 (6667)
+-
+02[10:01] * Unable to connect to server (Connection refused)
+-
+02[10:01] * Connect retry #28 127.0.0.1 (6667)
+-
+02[10:01] * Unable to connect to server (Connection refused)
+-
+02[10:01] * Connect retry #29 127.0.0.1 (6667)
+-
+02[10:01] * Unable to connect to server (Connection refused)
+-
+02[10:01] * Connect retry #30 127.0.0.1 (6667)
+-
+02[10:01] * Unable to connect to server (Connection refused)
+-
+02[10:01] * Connect retry #31 127.0.0.1 (6667)
+-
+02[10:01] * Unable to connect to server (Connection refused)
+-
+02[10:01] * Connect retry #32 127.0.0.1 (6667)
+-
+02[10:02] * Unable to connect to server (Connection refused)
+-
+02[10:02] * Connect retry #33 127.0.0.1 (6667)
+-
+02[10:02] * Unable to connect to server (Connection refused)
+-
+02[10:02] * Connect retry #34 127.0.0.1 (6667)
+-
+02[10:02] * Unable to connect to server (Connection refused)
+-
+02[10:02] * Connect retry #35 127.0.0.1 (6667)
+-
+02[10:02] * Unable to connect to server (Connection refused)
+-
+02[10:02] * Connect retry #36 127.0.0.1 (6667)
+-
+02[10:02] * Unable to connect to server (Connection refused)
+-
+02[10:02] * Connect retry #37 127.0.0.1 (6667)
+-
+02[10:02] * Unable to connect to server (Connection refused)
+-
+02[10:02] * Connect retry #38 127.0.0.1 (6667)
+-
+02[10:02] * Unable to connect to server (Connection refused)
+-
+02[10:02] * Connect retry #39 127.0.0.1 (6667)
+-
+02[10:02] * Unable to connect to server (Connection refused)
+-
+02[10:02] * Connect retry #40 127.0.0.1 (6667)
+-
+02[10:02] * Unable to connect to server (Connection refused)
+-
+02[10:02] * Connect retry #41 127.0.0.1 (6667)
+-
+02[10:02] * Unable to connect to server (Connection refused)
+-
+02[10:02] * Connect retry #42 127.0.0.1 (6667)
+-
+02[10:02] * Unable to connect to server (Connection refused)
+-
+02[10:02] * Connect retry #43 127.0.0.1 (6667)
+-
+02[10:02] * Unable to connect to server (Connection refused)
+-
+02[10:02] * Connect retry #44 127.0.0.1 (6667)
+-
+02[10:02] * Unable to connect to server (Connection refused)
+-
+02[10:02] * Connect retry #45 127.0.0.1 (6667)
+-
+02[10:02] * Unable to connect to server (Connection refused)
+-
+02[10:02] * Connect retry #46 127.0.0.1 (6667)
+-
+02[10:02] * Unable to connect to server (Connection refused)
+-
+02[10:02] * Connect retry #47 127.0.0.1 (6667)
+-
+02[10:03] * Unable to connect to server (Connection refused)
+-
+02[10:03] * Connect retry #48 127.0.0.1 (6667)
+-
+02[10:03] * Unable to connect to server (Connection refused)
+-
+02[10:03] * Connect retry #49 127.0.0.1 (6667)
+-
+02[10:03] * Unable to connect to server (Connection refused)
+-
+02[10:03] * Connect retry #50 127.0.0.1 (6667)
+-
+02[10:03] * Unable to connect to server (Connection refused)
+-
+02[10:03] * Connect retry #51 127.0.0.1 (6667)
+-
+02[10:03] * Unable to connect to server (Connection refused)
+-
+02[10:03] * Connect retry #52 127.0.0.1 (6667)
+-
+02[10:03] * Unable to connect to server (Connection refused)
+-
+02[10:03] * Connect retry #53 127.0.0.1 (6667)
+-
+02[10:03] * Unable to connect to server (Connection refused)
+-
+02[10:03] * Connect retry #54 127.0.0.1 (6667)
+-
+02[10:03] * Unable to connect to server (Connection refused)
+-
+02[10:03] * Connect retry #55 127.0.0.1 (6667)
+-
+02[10:03] * Unable to connect to server (Connection refused)
+-
+02[10:03] * Connect retry #56 127.0.0.1 (6667)
+-
+02[10:03] * Unable to connect to server (Connection refused)
+-
+02[10:03] * Connect retry #57 127.0.0.1 (6667)
+-
+02[10:03] * Unable to connect to server (Connection refused)
+-
+02[10:03] * Connect retry #58 127.0.0.1 (6667)
+-
+02[10:03] * Unable to connect to server (Connection refused)
+-
+02[10:03] * Connect retry #59 127.0.0.1 (6667)
+-
+02[10:03] * Unable to connect to server (Connection refused)
+-
+02[10:03] * Connect retry #60 127.0.0.1 (6667)
+-
+02[10:03] * Unable to connect to server (Connection refused)
+-
+02[10:03] * Connect retry #61 127.0.0.1 (6667)
+-
+02[10:03] * Unable to connect to server (Connection refused)
+-
+02[10:04] * Connect retry #62 127.0.0.1 (6667)
+-
+02[10:04] * Unable to connect to server (Connection refused)
+-
+02[10:04] * Connect retry #63 127.0.0.1 (6667)
+-
+02[10:04] * Unable to connect to server (Connection refused)
+-
+02[10:04] * Connect retry #64 127.0.0.1 (6667)
+-
+02[10:04] * Unable to connect to server (Connection refused)
+-
+02[10:04] * Connect retry #65 127.0.0.1 (6667)
+-
+02[10:04] * Unable to connect to server (Connection refused)
+-
+02[10:04] * Connect retry #66 127.0.0.1 (6667)
+-
+02[10:04] * Unable to connect to server (Connection refused)
+-
+02[10:04] * Connect retry #67 127.0.0.1 (6667)
+-
+02[10:04] * Unable to connect to server (Connection refused)
+-
+02[10:04] * Connect retry #68 127.0.0.1 (6667)
+-
+02[10:04] * Unable to connect to server (Connection refused)
+-
+02[10:04] * Connect retry #69 127.0.0.1 (6667)
+-
+02[10:04] * Unable to connect to server (Connection refused)
+-
+02[10:04] * Connect retry #70 127.0.0.1 (6667)
+-
+02[10:04] * Unable to connect to server (Connection refused)
+-
+02[10:04] * Connect retry #71 127.0.0.1 (6667)
+-
+02[10:04] * Unable to connect to server (Connection refused)
+-
+02[10:04] * Connect retry #72 127.0.0.1 (6667)
+-
+02[10:04] * Unable to connect to server (Connection refused)
+-
+02[10:04] * Connect retry #73 127.0.0.1 (6667)
+-
+02[10:04] * Unable to connect to server (Connection refused)
+-
+02[10:04] * Connect retry #74 127.0.0.1 (6667)
+-
+02[10:04] * Unable to connect to server (Connection refused)
+-
+02[10:04] * Connect retry #75 127.0.0.1 (6667)
+-
+02[10:04] * Unable to connect to server (Connection refused)
+-
+02[10:04] * Connect retry #76 127.0.0.1 (6667)
+-
+02[10:04] * Unable to connect to server (Connection refused)
+-
+02[10:05] * Connect retry #77 127.0.0.1 (6667)
+-
+02[10:05] * Unable to connect to server (Connection refused)
+-
+02[10:05] * Connect retry #78 127.0.0.1 (6667)
+-
+02[10:05] * Unable to connect to server (Connection refused)
+-
+02[10:05] * Connect retry #79 127.0.0.1 (6667)
+-
+02[10:05] * Unable to connect to server (Connection refused)
+-
+02[10:05] * Connect retry #80 127.0.0.1 (6667)
+-
+02[10:05] * Unable to connect to server (Connection refused)
+-
+02[10:05] * Connect retry #81 127.0.0.1 (6667)
+-
+02[10:05] * Unable to connect to server (Connection refused)
+-
+02[10:05] * Connect retry #82 127.0.0.1 (6667)
+-
+02[10:05] * Unable to connect to server (Connection refused)
+-
+02[10:05] * Connect retry #83 127.0.0.1 (6667)
+-
+02[10:05] * Unable to connect to server (Connection refused)
+-
+02[10:05] * Connect retry #84 127.0.0.1 (6667)
+-
+02[10:05] * Unable to connect to server (Connection refused)
+-
+02[10:05] * Connect retry #85 127.0.0.1 (6667)
+-
+02[10:05] * Unable to connect to server (Connection refused)
+-
+02[10:05] * Connect retry #86 127.0.0.1 (6667)
+-
+02[10:05] * Unable to connect to server (Connection refused)
+-
+02[10:05] * Connect retry #87 127.0.0.1 (6667)
+-
+02[10:05] * Unable to connect to server (Connection refused)
+-
+02[10:05] * Connect retry #88 127.0.0.1 (6667)
+-
