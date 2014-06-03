@@ -1,0 +1,95 @@
+
+Session Start: Sat Mar 08 23:53:01 2014
+Session Ident: Status Window
+02[23:53] * Connecting to 127.0.0.1 (6667)
+-
+05[23:53] -irc.win7sp1.com- *** Looking up your hostname...
+-
+05[23:54] -irc.win7sp1.com- *** Couldn't resolve your hostname; using your IP address instead
+-
+[23:54] Welcome to the win7sp1net IRC Network asdfasdf!asdfasdf@127.0.0.1
+[23:54] Your host is irc.win7sp1.com, running version Unreal3.2.10.2
+[23:54] This server was created Fri Nov 22 22:43:03 2013
+-
+[23:54] irc.win7sp1.com Unreal3.2.10.2 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+-
+[23:54] UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=10 CHANLIMIT=#:10 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 MAXTARGETS=20 are supported by this server
+[23:54] WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=win7sp1net CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT STATUSMSG=~&@%+ are supported by this server
+[23:54] EXCEPTS INVEX CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS are supported by this server
+-
+[23:54] There are 7 users and 2 invisible on 2 servers
+[23:54] 8 operator(s) online
+[23:54] I have 1 clients and 1 servers
+-
+[23:54] Current local  users: 1  Max: 1
+[23:54] Current global users: 9  Max: 9
+-
+03[23:54] * asdfasdf sets mode: +iwx
+-
+03[23:54] Local host: WIN-PUUKV404Q8J (127.0.0.1)
+-
+03[23:57] * [10053] Software caused connection abort
+-
+02[23:57] * Disconnected
+Session Close: Sat Mar 08 23:57:15 2014
+
+Session Start: Sat Mar 08 23:57:15 2014
+Session Ident: Status Window
+-
+02[23:57] * Connect retry #1 127.0.0.1 (6667)
+-
+02[23:57] * Unable to connect to server (Connection refused)
+-
+02[23:57] * Connect retry #2 127.0.0.1 (6667)
+-
+02[23:57] * Unable to connect to server (Connection refused)
+-
+02[23:57] * Connect retry #3 127.0.0.1 (6667)
+-
+02[23:57] * Unable to connect to server (Connection refused)
+-
+02[23:57] * Connect retry #4 127.0.0.1 (6667)
+-
+02[23:57] * Unable to connect to server (Connection refused)
+-
+02[23:57] * Connect retry #5 127.0.0.1 (6667)
+-
+02[23:57] * Unable to connect to server (Connection refused)
+-
+02[23:57] * Connect retry #6 127.0.0.1 (6667)
+-
+02[23:57] * Unable to connect to server (Connection refused)
+-
+02[23:57] * Connect retry #7 127.0.0.1 (6667)
+-
+Session Close: Sat Mar 08 23:57:43 2014
+
+Session Start: Sun Apr 27 16:08:00 2014
+Session Ident: Status Window
+02[16:08] * Connecting to 127.0.0.1 (6667)
+-
+05[16:08] -irc.win7sp1.com- *** Looking up your hostname...
+-
+05[16:08] -irc.win7sp1.com- *** Couldn't resolve your hostname; using your IP address instead
+-
+[16:08] Welcome to the win7sp1net IRC Network asdfasdf!asdfasdf@127.0.0.1
+[16:08] Your host is irc.win7sp1.com, running version Unreal3.2.10.2
+[16:08] This server was created Fri Nov 22 22:43:03 2013
+-
+[16:08] irc.win7sp1.com Unreal3.2.10.2 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+-
+[16:08] UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=10 CHANLIMIT=#:10 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 MAXTARGETS=20 are supported by this server
+[16:08] WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=win7sp1net CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT STATUSMSG=~&@%+ are supported by this server
+[16:08] EXCEPTS INVEX CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS are supported by this server
+-
+[16:08] There are 1 users and 0 invisible on 1 servers
+[16:08] I have 1 clients and 0 servers
+-
+[16:08] Current local  users: 1  Max: 1
+[16:08] Current global users: 1  Max: 1
+-
+03[16:08] Local host: WIN-PUUKV404Q8J (127.0.0.1)
+-
+03[16:08] * asdfasdf sets mode: +iwx
+-
+Session Close: Sun Apr 27 16:12:02 2014

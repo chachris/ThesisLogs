@@ -1,0 +1,168 @@
+
+Session Start: Sat Jan 11 00:12:53 2014
+Session Ident: Status Window
+02[00:13] * Connecting to irc.efnet.org (6667)
+-
+02[00:14] * Connect cancelled
+-
+02[00:14] * Connecting to irc.efnet.org (6667)
+-
+02[00:14] * Connect cancelled
+-
+02[00:14] * Connecting to 192.168.232.130 (6667)
+-
+05[00:14] -chuck.test.com- *** Looking up your hostname...
+-
+05[00:14] -chuck.test.com- *** Checking Ident
+-
+06[00:14] * Identd request from 192.168.232.130
+06[00:14] * Identd replied: 1050, 6667 : USERID : UNIX : cgdf
+-
+05[00:14] -chuck.test.com- *** Got Ident response
+-
+05[00:14] -chuck.test.com- *** Couldn't look up your hostname
+-
+[00:14] Welcome to the testie Internet Relay Chat Network cgdf
+[00:14] Your host is chuck.test.com[0.0.0.0/6667], running version hybrid-7.2.2.dfsg.2-6
+[00:14] This server was created Feb  6 2013 at 08:17:44
+-
+[00:14] chuck.test.com hybrid-7.2.2.dfsg.2-6 DGabcdfgiklnorsuwxyz biklmnopstveIh bkloveIh
+-
+[00:14] CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=160 MODES=4 NICKLEN=15 PREFIX=(ohv)@%+ STATUSMSG=@%+ TOPICLEN=350 NETWORK=testie MAXLIST=beI:25 MAXTARGETS=4 CHANTYPES=#& are supported by this server
+[00:14] CHANLIMIT=#&:15 CHANNELLEN=50 EXCEPTS=e INVEX=I CHANMODES=eIb,k,l,imnpst ELIST=CMNTU SAFELIST KNOCK AWAYLEN=160 are supported by this server
+-
+[00:14] There are 0 users and 1 invisible on 1 servers
+[00:14] I have 1 clients and 0 servers
+-
+[00:14] Current local users: 1  Max: 1
+[00:14] Current global users: 1  Max: 1
+-
+[00:14] Highest connection count: 1 (1 clients) (1 connections received)
+-
+[00:14] Message of the Day, chuck.test.com
+-
+[00:14] -         _,met$$$$$gg.       ircd-hybrid 7.2.2
+[00:14] -      ,g$$$$$$$$$$$$$$$P.    -----------------
+[00:14] -    ,g$$P""       """Y$$.".  
+[00:14] -   ,$$P'              `$$$.  If you are seeing this, you have
+[00:14] - ',$$P       ,ggs.     `$$b: installed the ircd-hybrid package and
+[00:14] - `d$$'     ,$P"'   .    $$$  you are now connected to your new IRC
+[00:14] -  $$P      d$'     ,    $$P  server -- congratulations.
+[00:14] -  $$:      $$.   -    ,d$$'  
+[00:14] -  $$;      Y$b._   _,d$P'    Since you have just installed the
+[00:14] -  Y$$.    `.`"Y$$$$P"'       package, there are some things you
+[00:14] -  `$$b      "-.__            should do before going any further:
+[00:14] -   `Y$$b                     
+[00:14] -    `Y$$.                    1. Edit /etc/ircd-hybrid/ircd.conf to
+[00:14] -      `$$b.                  suit your needs. Beware some options have
+[00:14] -        `Y$$b.               been removed or moved into other blocks in
+[00:14] -          `"Y$b._            the configuration file since
+[00:14] -             `""""           ircd-hybrid 7.0.3.
+[00:14] - 
+[00:14] -                             2. Edit /etc/ircd-hybrid/ircd.motd (this
+[00:14] -                             MOTD) to suit your needs. You are free
+[00:14] -                             to use this Debian swirl under the
+[00:14] -                             Debian Open Use Logo License. :)
+[00:14] - 
+[00:14] -                             3. Restart the server using invoke-rc.d
+[00:14] -                             ircd-hybrid restart.
+[00:14] - 
+[00:14] -                             -- Joshua Kwan <joshk@triplehelix.org>
+[00:14] -                             -- Aurélien GÉRÔME <ag@roxor.cx>
+-
+[00:14] End of /MOTD command.
+-
+03[00:14] * cgdf sets mode: +i
+-
+03[00:14] Local host: WinXPSP2One.localdomain (192.168.232.128)
+-
+01[00:15] -> *nickserv* help
+-
+01[00:15] nickserv No such nick/channel
+-
+02[00:15] * You are not on a channel
+-
+02[00:16] * You are not on a channel
+-
+02[00:16] * You are not on a channel
+-
+02[00:16] * You are not on a channel
+-
+02[00:16] * Disconnected
+Session Close: Sat Jan 11 00:16:31 2014
+
+Session Start: Sat Jan 11 00:16:31 2014
+Session Ident: Status Window
+-
+02[00:16] * Connecting to 192.168.232.130 (6667)
+-
+06[00:16] * Identd request from 192.168.232.130
+-
+05[00:16] -chuck.test.com- *** Looking up your hostname...
+-
+05[00:16] -chuck.test.com- *** Checking Ident
+-
+06[00:16] * Identd replied: 1054, 6667 : USERID : UNIX : cgdf
+-
+05[00:16] -chuck.test.com- *** Got Ident response
+-
+05[00:17] -chuck.test.com- *** Couldn't look up your hostname
+-
+[00:17] Welcome to the testie Internet Relay Chat Network cgdf
+[00:17] Your host is chuck.test.com[0.0.0.0/6667], running version hybrid-7.2.2.dfsg.2-6
+[00:17] This server was created Feb  6 2013 at 08:17:44
+-
+[00:17] chuck.test.com hybrid-7.2.2.dfsg.2-6 DGabcdfgiklnorsuwxyz biklmnopstveIh bkloveIh
+-
+[00:17] CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=160 MODES=4 NICKLEN=15 PREFIX=(ohv)@%+ STATUSMSG=@%+ TOPICLEN=350 NETWORK=testie MAXLIST=beI:25 MAXTARGETS=4 CHANTYPES=#& are supported by this server
+[00:17] CHANLIMIT=#&:15 CHANNELLEN=50 EXCEPTS=e INVEX=I CHANMODES=eIb,k,l,imnpst ELIST=CMNTU SAFELIST KNOCK AWAYLEN=160 are supported by this server
+-
+[00:17] There are 0 users and 1 invisible on 1 servers
+[00:17] I have 1 clients and 0 servers
+-
+[00:17] Current local users: 1  Max: 1
+[00:17] Current global users: 1  Max: 1
+-
+[00:17] Highest connection count: 1 (1 clients) (2 connections received)
+-
+[00:17] Message of the Day, chuck.test.com
+-
+[00:17] -         _,met$$$$$gg.       ircd-hybrid 7.2.2
+[00:17] -      ,g$$$$$$$$$$$$$$$P.    -----------------
+[00:17] -    ,g$$P""       """Y$$.".  
+[00:17] -   ,$$P'              `$$$.  If you are seeing this, you have
+[00:17] - ',$$P       ,ggs.     `$$b: installed the ircd-hybrid package and
+[00:17] - `d$$'     ,$P"'   .    $$$  you are now connected to your new IRC
+[00:17] -  $$P      d$'     ,    $$P  server -- congratulations.
+[00:17] -  $$:      $$.   -    ,d$$'  
+[00:17] -  $$;      Y$b._   _,d$P'    Since you have just installed the
+[00:17] -  Y$$.    `.`"Y$$$$P"'       package, there are some things you
+[00:17] -  `$$b      "-.__            should do before going any further:
+[00:17] -   `Y$$b                     
+[00:17] -    `Y$$.                    1. Edit /etc/ircd-hybrid/ircd.conf to
+[00:17] -      `$$b.                  suit your needs. Beware some options have
+[00:17] -        `Y$$b.               been removed or moved into other blocks in
+[00:17] -          `"Y$b._            the configuration file since
+[00:17] -             `""""           ircd-hybrid 7.0.3.
+[00:17] - 
+[00:17] -                             2. Edit /etc/ircd-hybrid/ircd.motd (this
+[00:17] -                             MOTD) to suit your needs. You are free
+[00:17] -                             to use this Debian swirl under the
+[00:17] -                             Debian Open Use Logo License. :)
+[00:17] - 
+[00:17] -                             3. Restart the server using invoke-rc.d
+[00:17] -                             ircd-hybrid restart.
+[00:17] - 
+[00:17] -                             -- Joshua Kwan <joshk@triplehelix.org>
+[00:17] -                             -- Aurélien GÉRÔME <ag@roxor.cx>
+-
+[00:17] End of /MOTD command.
+-
+03[00:17] * cgdf sets mode: +i
+-
+03[00:17] Local host: WinXPSP2One.localdomain (192.168.232.128)
+-
+05[00:17] -chuck.test.com- Server Terminating: received signal SIGTERM
+-
+02[00:17] * Disconnected
+Session Close: Sat Jan 11 00:17:47 2014

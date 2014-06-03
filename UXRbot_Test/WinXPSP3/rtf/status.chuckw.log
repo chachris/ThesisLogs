@@ -1,0 +1,1689 @@
+
+Session Start: Sat Jan 11 00:17:47 2014
+Session Ident: Status Window
+-
+02[00:17] * Connect retry #1 192.168.232.130 (6667)
+-
+02[00:17] * Unable to connect to server (Connection refused)
+-
+02[00:17] * Connect retry #2 192.168.232.130 (6667)
+-
+02[00:17] * Unable to connect to server (Connection refused)
+-
+02[00:17] * Connect retry #3 192.168.232.130 (6667)
+-
+02[00:18] * Unable to connect to server (Connection refused)
+-
+02[00:18] * Connect cancelled
+Session Close: Sat Jan 11 00:18:05 2014
+
+Session Start: Fri Jan 17 15:02:40 2014
+Session Ident: Status Window
+02[15:02] * Connecting to 127.0.0.1 (6667)
+-
+05[15:03] -irc.chuckwholery.com- *** Looking up your hostname...
+-
+05[15:03] -irc.chuckwholery.com- *** Found your hostname
+-
+[15:03] Welcome to the chuckw IRC Network cgdf!cgdf@localhost
+[15:03] Your host is irc.chuckwholery.com, running version Unreal3.2.10.2
+[15:03] This server was created Fri Nov 22 22:43:03 2013
+-
+[15:03] irc.chuckwholery.com Unreal3.2.10.2 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+-
+[15:03] UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=10 CHANLIMIT=#:10 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 MAXTARGETS=20 are supported by this server
+[15:03] WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=chuckw CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT STATUSMSG=~&@%+ are supported by this server
+[15:03] EXCEPTS INVEX CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS are supported by this server
+-
+[15:03] There are 1 users and 0 invisible on 1 servers
+[15:03] I have 1 clients and 0 servers
+-
+[15:03] Current local  users: 1  Max: 1
+[15:03] Current global users: 1  Max: 1
+-
+03[15:03] * cgdf sets mode: +iwx
+-
+[15:03] OPER Not enough parameters
+-
+03[15:03] * cgdf sets mode: +oghaAsN
+-
+[15:03] Server notice mask (+kcfvGqso)
+-
+[15:03] You are now an IRC Operator
+-
+Session Close: Fri Jan 17 15:04:22 2014
+
+Session Start: Fri Jan 17 15:04:51 2014
+Session Ident: Status Window
+02[15:05] * Connecting to 127.0.0.1 (6667)
+-
+05[15:05] -irc.chuckwholery.com- *** Looking up your hostname...
+-
+05[15:05] -irc.chuckwholery.com- *** Found your hostname (cached)
+-
+[15:05] Welcome to the chuckw IRC Network cgdf!cgdf@localhost
+[15:05] Your host is irc.chuckwholery.com, running version Unreal3.2.10.2
+[15:05] This server was created Fri Nov 22 22:43:03 2013
+-
+[15:05] irc.chuckwholery.com Unreal3.2.10.2 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+-
+[15:05] UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=10 CHANLIMIT=#:10 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 MAXTARGETS=20 are supported by this server
+[15:05] WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=chuckw CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT STATUSMSG=~&@%+ are supported by this server
+[15:05] EXCEPTS INVEX CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS are supported by this server
+-
+[15:05] There are 1 users and 0 invisible on 1 servers
+[15:05] I have 1 clients and 0 servers
+-
+[15:05] Current local  users: 1  Max: 1
+[15:05] Current global users: 1  Max: 1
+-
+03[15:05] * cgdf sets mode: +iwx
+-
+[15:05] Password Incorrect
+-
+03[15:05] * cgdf sets mode: +oghaAsN
+-
+[15:05] Server notice mask (+kcfvGqso)
+-
+[15:05] You are now an IRC Operator
+-
+02[15:06] * Disconnected
+Session Close: Fri Jan 17 15:06:30 2014
+
+Session Start: Sat Jan 18 21:16:47 2014
+Session Ident: Status Window
+02[21:16] * Connecting to 127.0.0.1 (6667)
+-
+05[21:16] -irc.chuckwholery.com- *** Looking up your hostname...
+-
+05[21:16] -irc.chuckwholery.com- *** Found your hostname (cached)
+-
+[21:16] Welcome to the chuckw IRC Network cgdf!cgdf@localhost
+[21:16] Your host is irc.chuckwholery.com, running version Unreal3.2.10.2
+[21:16] This server was created Fri Nov 22 22:43:03 2013
+-
+[21:16] irc.chuckwholery.com Unreal3.2.10.2 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+-
+[21:16] UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=10 CHANLIMIT=#:10 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 MAXTARGETS=20 are supported by this server
+[21:16] WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=chuckw CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT STATUSMSG=~&@%+ are supported by this server
+[21:16] EXCEPTS INVEX CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS are supported by this server
+-
+[21:16] There are 1 users and 0 invisible on 1 servers
+[21:16] I have 1 clients and 0 servers
+-
+[21:16] Current local  users: 1  Max: 2
+[21:16] Current global users: 1  Max: 1
+-
+03[21:16] * cgdf sets mode: +iwx
+-
+01[21:17] chanserv No such nick/channel
+-
+01[21:17] chanserv End of /WHOIS list.
+-
+01[21:17] chanserv No such nick/channel
+-
+01[21:17] chanserv End of /WHOIS list.
+-
+02[21:18] * Disconnected
+Session Close: Sat Jan 18 21:18:35 2014
+
+Session Start: Sat Jan 18 21:20:54 2014
+Session Ident: Status Window
+02[21:20] * Connecting to 127.0.0.1 (6667)
+-
+05[21:20] -irc.chuckwholery.com- *** Looking up your hostname...
+-
+05[21:20] -irc.chuckwholery.com- *** Found your hostname (cached)
+-
+[21:20] Welcome to the chuckw IRC Network cgdf!cgdf@localhost
+[21:20] Your host is irc.chuckwholery.com, running version Unreal3.2.10.2
+[21:20] This server was created Fri Nov 22 22:43:03 2013
+-
+[21:20] irc.chuckwholery.com Unreal3.2.10.2 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+-
+[21:20] UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=10 CHANLIMIT=#:10 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 MAXTARGETS=20 are supported by this server
+[21:20] WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=chuckw CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT STATUSMSG=~&@%+ are supported by this server
+[21:20] EXCEPTS INVEX CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS are supported by this server
+-
+[21:20] There are 1 users and 0 invisible on 1 servers
+[21:20] I have 1 clients and 0 servers
+-
+[21:20] Current local  users: 1  Max: 2
+[21:20] Current global users: 1  Max: 1
+-
+03[21:20] * cgdf sets mode: +iwx
+-
+01[21:21] ChanServ No such nick/channel
+-
+01[21:21] ChanServ End of /WHOIS list.
+-
+02[21:23] * Disconnected
+Session Close: Sat Jan 18 21:23:43 2014
+
+Session Start: Sat Jan 18 21:23:43 2014
+Session Ident: Status Window
+-
+02[21:24] * Connecting to 127.0.0.1 (6667)
+-
+05[21:24] -irc.chuckwholery.com- *** Looking up your hostname...
+-
+05[21:24] -irc.chuckwholery.com- *** Found your hostname (cached)
+-
+[21:24] Welcome to the chuckw IRC Network cgdf!cgdf@localhost
+[21:24] Your host is irc.chuckwholery.com, running version Unreal3.2.10.2
+[21:24] This server was created Fri Nov 22 22:43:03 2013
+-
+[21:24] irc.chuckwholery.com Unreal3.2.10.2 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+-
+[21:24] UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=10 CHANLIMIT=#:10 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 MAXTARGETS=20 are supported by this server
+[21:24] WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=chuckw CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT STATUSMSG=~&@%+ are supported by this server
+[21:24] EXCEPTS INVEX CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS are supported by this server
+-
+[21:24] There are 1 users and 0 invisible on 1 servers
+[21:24] I have 1 clients and 0 servers
+-
+[21:24] Current local  users: 1  Max: 2
+[21:24] Current global users: 1  Max: 1
+-
+03[21:24] * cgdf sets mode: +iwx
+-
+01[21:26] ChanServ No such nick/channel
+-
+01[21:26] ChanServ End of /WHOIS list.
+-
+02[21:28] * /msg: insufficient parameters
+-
+01[21:28] -> *ChanServ* help
+-
+01[21:28] ChanServ No such nick/channel
+-
+01[21:29] -> *ChanServ* REGISTER cats password Something
+-
+01[21:29] ChanServ No such nick/channel
+-
+01[21:31] -> *OperServ* GLOBAL Hello Everyone!!!
+-
+01[21:31] OperServ No such nick/channel
+-
+02[21:33] * Disconnected
+Session Close: Sat Jan 18 21:33:51 2014
+
+Session Start: Sat Jan 18 21:56:25 2014
+Session Ident: Status Window
+02[21:56] * Connecting to 127.0.0.1 (6667)
+-
+05[21:56] -irc.chuckwholery.com- *** Looking up your hostname...
+-
+05[21:56] -irc.chuckwholery.com- *** Found your hostname
+-
+[21:56] Welcome to the chuckw IRC Network cgdf!cgdf@localhost
+[21:56] Your host is irc.chuckwholery.com, running version Unreal3.2.10.2
+[21:56] This server was created Fri Nov 22 22:43:03 2013
+-
+[21:56] irc.chuckwholery.com Unreal3.2.10.2 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+-
+[21:56] UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=10 CHANLIMIT=#:10 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 MAXTARGETS=20 are supported by this server
+[21:56] WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=chuckw CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT STATUSMSG=~&@%+ are supported by this server
+[21:56] EXCEPTS INVEX CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS are supported by this server
+-
+[21:56] There are 1 users and 0 invisible on 1 servers
+[21:56] 1 unknown connection(s)
+[21:56] I have 1 clients and 0 servers
+-
+[21:56] Current local  users: 1  Max: 2
+[21:56] Current global users: 1  Max: 1
+-
+03[21:56] * cgdf sets mode: +iwx
+-
+01[21:56] ChanServ No such nick/channel
+-
+01[21:56] ChanServ End of /WHOIS list.
+-
+02[21:57] * Disconnected
+Session Close: Sat Jan 18 21:57:47 2014
+
+Session Start: Sat Jan 18 22:02:19 2014
+Session Ident: Status Window
+02[22:02] * Connecting to 127.0.0.1 (6667)
+-
+05[22:02] -irc.chuckwholery.com- *** Looking up your hostname...
+-
+05[22:02] -irc.chuckwholery.com- *** Found your hostname
+-
+[22:02] Welcome to the chuckw IRC Network cgdf!cgdf@localhost
+[22:02] Your host is irc.chuckwholery.com, running version Unreal3.2.10.2
+[22:02] This server was created Fri Nov 22 22:43:03 2013
+-
+[22:02] irc.chuckwholery.com Unreal3.2.10.2 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+-
+[22:02] UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=10 CHANLIMIT=#:10 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 MAXTARGETS=20 are supported by this server
+[22:02] WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=chuckw CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT STATUSMSG=~&@%+ are supported by this server
+[22:02] EXCEPTS INVEX CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS are supported by this server
+-
+[22:02] There are 1 users and 0 invisible on 1 servers
+[22:02] 1 unknown connection(s)
+[22:02] I have 1 clients and 0 servers
+-
+[22:02] Current local  users: 1  Max: 2
+[22:02] Current global users: 1  Max: 1
+-
+03[22:02] * cgdf sets mode: +iwx
+-
+02[22:02] * /msg: insufficient parameters
+-
+01[22:02] -> *nickserv* help
+-
+01[22:02] nickserv No such nick/channel
+-
+02[22:06] * Disconnected
+Session Close: Sat Jan 18 22:06:47 2014
+
+Session Start: Sat Jan 18 22:20:25 2014
+Session Ident: Status Window
+02[22:20] * Connecting to 127.0.0.1 (6667)
+-
+05[22:20] -irc.chuckwholery.com- *** Looking up your hostname...
+-
+05[22:20] -irc.chuckwholery.com- *** Found your hostname
+-
+[22:20] Welcome to the chuckw IRC Network cgdf!cgdf@localhost
+[22:20] Your host is irc.chuckwholery.com, running version Unreal3.2.10.2
+[22:20] This server was created Fri Nov 22 22:43:03 2013
+-
+[22:20] irc.chuckwholery.com Unreal3.2.10.2 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+-
+[22:20] UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=10 CHANLIMIT=#:10 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 MAXTARGETS=20 are supported by this server
+[22:20] WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=chuckw CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT STATUSMSG=~&@%+ are supported by this server
+[22:20] EXCEPTS INVEX CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS are supported by this server
+-
+[22:20] There are 1 users and 0 invisible on 1 servers
+[22:20] I have 1 clients and 0 servers
+-
+[22:20] Current local  users: 1  Max: 2
+[22:20] Current global users: 1  Max: 1
+-
+03[22:20] * cgdf sets mode: +iwx
+-
+02[22:21] * /msg: insufficient parameters
+-
+02[22:21] * /msg: insufficient parameters
+-
+01[22:21] ChanServ No such nick/channel
+-
+01[22:21] ChanServ End of /WHOIS list.
+-
+02[22:26] * Disconnected
+Session Close: Sat Jan 18 22:26:54 2014
+
+Session Start: Sat Jan 18 22:27:08 2014
+Session Ident: Status Window
+02[22:27] * Connecting to 127.0.0.1 (6667)
+-
+05[22:27] -irc.chuckwholery.com- *** Looking up your hostname...
+-
+05[22:27] -irc.chuckwholery.com- *** Found your hostname
+-
+[22:27] Welcome to the chuckw IRC Network cgdf!cgdf@localhost
+[22:27] Your host is irc.chuckwholery.com, running version Unreal3.2.10.2
+[22:27] This server was created Fri Nov 22 22:43:03 2013
+-
+[22:27] irc.chuckwholery.com Unreal3.2.10.2 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+-
+[22:27] UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=10 CHANLIMIT=#:10 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 MAXTARGETS=20 are supported by this server
+[22:27] WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=chuckw CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT STATUSMSG=~&@%+ are supported by this server
+[22:27] EXCEPTS INVEX CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS are supported by this server
+-
+[22:27] There are 1 users and 0 invisible on 1 servers
+[22:27] I have 1 clients and 0 servers
+-
+[22:27] Current local  users: 1  Max: 2
+[22:27] Current global users: 1  Max: 1
+-
+03[22:27] * cgdf sets mode: +iwx
+-
+01[22:27] -> *ChanServ* REGISTER cats password cats
+-
+01[22:27] ChanServ No such nick/channel
+-
+[22:27] OPER Not enough parameters
+-
+02[22:29] * You are not on a channel
+-
+02[22:29] * You are not on a channel
+-
+[22:32] OPER Not enough parameters
+[22:32] No O-lines for your host
+-
+03[22:33] * cgdf sets mode: +oghaAsN
+-
+[22:33] Server notice mask (+kcfvGqso)
+-
+[22:33] You are now an IRC Operator
+-
+02[22:34] * Disconnected
+Session Close: Sat Jan 18 22:34:55 2014
+
+Session Start: Sat Jan 18 22:34:55 2014
+Session Ident: Status Window
+-
+02[22:34] * Connecting to 127.0.0.1 (6667)
+-
+05[22:35] -irc.chuckwholery.com- *** Looking up your hostname...
+-
+05[22:35] -irc.chuckwholery.com- *** Found your hostname (cached)
+-
+[22:35] Welcome to the chuckw IRC Network cgdf!cgdf@localhost
+[22:35] Your host is irc.chuckwholery.com, running version Unreal3.2.10.2
+[22:35] This server was created Fri Nov 22 22:43:03 2013
+-
+[22:35] irc.chuckwholery.com Unreal3.2.10.2 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+-
+[22:35] UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=10 CHANLIMIT=#:10 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 MAXTARGETS=20 are supported by this server
+[22:35] WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=chuckw CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT STATUSMSG=~&@%+ are supported by this server
+[22:35] EXCEPTS INVEX CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS are supported by this server
+-
+[22:35] There are 1 users and 0 invisible on 1 servers
+[22:35] I have 1 clients and 0 servers
+-
+[22:35] Current local  users: 1  Max: 2
+[22:35] Current global users: 1  Max: 1
+-
+03[22:35] * cgdf sets mode: +iwx
+-
+Session Close: Sat Jan 18 22:35:06 2014
+
+Session Start: Sat Jan 18 22:59:07 2014
+Session Ident: Status Window
+02[22:59] * Connecting to 127.0.0.1 (6667)
+-
+05[22:59] -irc.chuckwholery.com- *** Looking up your hostname...
+-
+05[22:59] -irc.chuckwholery.com- *** Found your hostname
+-
+[22:59] Welcome to the chuckw IRC Network cgdf!cgdf@localhost
+[22:59] Your host is irc.chuckwholery.com, running version Unreal3.2.10.2
+[22:59] This server was created Fri Nov 22 22:43:03 2013
+-
+[22:59] irc.chuckwholery.com Unreal3.2.10.2 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+-
+[22:59] UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=10 CHANLIMIT=#:10 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 MAXTARGETS=20 are supported by this server
+[22:59] WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=chuckw CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT STATUSMSG=~&@%+ are supported by this server
+[22:59] EXCEPTS INVEX CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS are supported by this server
+-
+[22:59] There are 1 users and 0 invisible on 1 servers
+[22:59] 1 unknown connection(s)
+[22:59] I have 1 clients and 0 servers
+-
+[22:59] Current local  users: 1  Max: 2
+[22:59] Current global users: 1  Max: 1
+-
+03[22:59] * cgdf sets mode: +iwx
+-
+05[22:59] -Global- Services are now back online - have a nice day
+-
+02[23:00] * /msg: insufficient parameters
+-
+[23:00] MSGS Unknown command
+-
+01[23:00] -> *NickServ* help
+-
+05[23:00] -NickServ- NickServ allows you to "register" a nickname and
+-
+05[23:00] -NickServ- prevent others from using it. The following
+-
+05[23:00] -NickServ- commands allow for registration and maintenance of
+-
+05[23:00] -NickServ- nicknames; to use them, type /msg NickServ command.
+-
+05[23:00] -NickServ- For more information on a specific command, type
+-
+05[23:00] -NickServ- /msg NickServ HELP command.
+-
+05[23:00] -NickServ-  
+-
+05[23:00] -NickServ-     REGISTER   Register a nickname
+-
+05[23:00] -NickServ-     GROUP      Join a group
+-
+05[23:00] -NickServ-     GLIST      Lists all nicknames in your group
+-
+05[23:00] -NickServ-     IDENTIFY   Identify yourself with your password
+-
+05[23:00] -NickServ-     ACCESS     Modify the list of authorized addresses
+-
+05[23:00] -NickServ-     SET        Set options, including kill protection
+-
+05[23:00] -NickServ-     DROP       Cancel the registration of a nickname
+-
+05[23:00] -NickServ-     RECOVER    Kill another user who has taken your nick
+-
+05[23:00] -NickServ-     RELEASE    Regain custody of your nick after RECOVER
+-
+05[23:00] -NickServ-     SENDPASS   Forgot your password? Try this
+-
+05[23:00] -NickServ-     GHOST      Disconnects a "ghost" IRC session using your nick
+-
+05[23:00] -NickServ-     ALIST      List channels you have access on
+-
+05[23:00] -NickServ-     INFO       Displays information about a given nickname
+-
+05[23:00] -NickServ-     LOGOUT     Reverses the effect of the IDENTIFY command
+-
+05[23:00] -NickServ-     STATUS     Returns the owner status of the given nickname
+-
+05[23:00] -NickServ-     UPDATE     Updates your current status, i.e. it checks for new memos
+-
+05[23:00] -NickServ-  
+-
+05[23:00] -NickServ- Nicknames that are not used anymore are subject to 
+-
+05[23:00] -NickServ- the automatic expiration, i.e. they will be deleted
+-
+05[23:00] -NickServ- after 90 days if not used.
+-
+05[23:00] -NickServ-  
+-
+05[23:00] -NickServ- NOTICE: This service is intended to provide a way for
+-
+05[23:00] -NickServ- IRC users to ensure their identity is not compromised.
+-
+05[23:00] -NickServ- It is NOT intended to facilitate "stealing" of
+-
+05[23:00] -NickServ- nicknames or other malicious actions.  Abuse of NickServ
+-
+05[23:00] -NickServ- will result in, at minimum, loss of the abused
+-
+05[23:00] -NickServ- nickname(s).
+-
+01[23:01] -> *Chanserv* help
+-
+05[23:01] -ChanServ- ChanServ allows you to register and control various
+-
+05[23:01] -ChanServ- aspects of channels.  ChanServ can often prevent
+-
+05[23:01] -ChanServ- malicious users from "taking over" channels by limiting
+-
+05[23:01] -ChanServ- who is allowed channel operator privileges.  Available
+-
+05[23:01] -ChanServ- commands are listed below; to use them, type
+-
+05[23:01] -ChanServ- /msg ChanServ command.  For more information on a
+-
+05[23:01] -ChanServ- specific command, type /msg ChanServ HELP command.
+-
+05[23:01] -ChanServ-  
+-
+05[23:01] -ChanServ-     REGISTER   Register a channel
+-
+05[23:01] -ChanServ-     IDENTIFY   Identify yourself with your password
+-
+05[23:01] -ChanServ-     SET        Set channel options and information
+-
+05[23:01] -ChanServ-     SOP        Modify the list of SOP users
+-
+05[23:01] -ChanServ-     AOP        Modify the list of AOP users
+-
+05[23:01] -ChanServ-     HOP        Maintains the HOP (HalfOP) list for a channel
+-
+05[23:01] -ChanServ-     VOP        Maintains the VOP (VOicePeople) list for a channel
+-
+05[23:01] -ChanServ-     ACCESS     Modify the list of privileged users
+-
+05[23:01] -ChanServ-     LEVELS     Redefine the meanings of access levels
+-
+05[23:01] -ChanServ-     AKICK      Maintain the AutoKick list
+-
+05[23:01] -ChanServ-     DROP       Cancel the registration of a channel
+-
+05[23:01] -ChanServ-     SENDPASS   Help retrieve lost passwords
+-
+05[23:01] -ChanServ-     BAN        Bans a selected nick on a channel
+-
+05[23:01] -ChanServ-     UNBAN      Remove all bans preventing you from entering a channel
+-
+05[23:01] -ChanServ-     CLEAR      Tells ChanServ to clear certain settings on a channel
+-
+05[23:01] -ChanServ-     OWNER      Gives you owner status on channel
+-
+05[23:01] -ChanServ-     DEOWNER    Removes your owner status on a channel
+-
+05[23:01] -ChanServ-     PROTECT    Protects a selected nick on a channel
+-
+05[23:01] -ChanServ-     DEPROTECT  Deprotects a selected nick on a channel
+-
+05[23:01] -ChanServ-     OP         Gives Op status to a selected nick on a channel
+-
+05[23:01] -ChanServ-     DEOP       Deops a selected nick on a channel
+-
+05[23:01] -ChanServ-     HALFOP     Halfops a selected nick on a channel
+-
+05[23:01] -ChanServ-     DEHALFOP   Dehalfops a selected nick on a channel
+-
+05[23:01] -ChanServ-     VOICE      Voices a selected nick on a channel
+-
+05[23:01] -ChanServ-     DEVOICE    Devoices a selected nick on a channel
+-
+05[23:01] -ChanServ-     GETKEY     Returns the key of the given channel
+-
+05[23:01] -ChanServ-     INVITE     Tells ChanServ to invite you into a channel
+-
+05[23:01] -ChanServ-     KICK       Kicks a selected nick from a channel
+-
+05[23:01] -ChanServ-     LOGOUT     This command will logout the selected nickname
+-
+05[23:01] -ChanServ-     TOPIC      Manipulate the topic of the specified channel
+-
+05[23:01] -ChanServ-     INFO       Lists information about the named registered channel
+-
+05[23:01] -ChanServ-     APPENDTOPIC   Add text to a channels topic
+-
+05[23:01] -ChanServ-     ENFORCE    Enforce various channel modes and set options
+-
+05[23:01] -ChanServ-  
+-
+05[23:01] -ChanServ- Note that any channel which is not used for 14 days
+-
+05[23:01] -ChanServ- (i.e. which no user on the channel's access list enters
+-
+05[23:01] -ChanServ- for that period of time) will be automatically dropped.
+-
+01[23:02] -> *ChanServ* REGISTER testbotz password Test botz
+-
+05[23:02] -ChanServ- Please use the symbol of # when attempting to register
+-
+01[23:03] -> *ChanServ* REGISTER #testbotz password Test botz
+-
+05[23:03] -ChanServ- You must register your nickname first.  Type /msg NickServ HELP for information on registering nicknames.
+-
+01[23:06] -> *NickServ* REGISTER password
+-
+05[23:06] -NickServ- Nickname cgdf registered under your account: *cgdf@chuckw-8D6E1D4C
+-
+05[23:06] -NickServ- Your password is password - remember this for later use.
+-
+03[23:06] * services.chuckwholery.com sets mode: +r
+-
+01[23:06] -> *ChanServ* REGISTER #testbotz password Test botz
+-
+05[23:06] -ChanServ- You have attempted to register a nonexistent channel #testbotz
+-
+01[23:07] -> *NickServ* REGISTER password
+-
+05[23:07] -NickServ- Nickname cgdf is already registered!
+-
+01[23:07] -> *ChanServ* REGISTER #testbotz password Test botz
+-
+05[23:07] -ChanServ- You have attempted to register a nonexistent channel #testbotz
+-
+01[23:08] -> *BotServ* BOTLIST
+-
+05[23:08] -BotServ- There are no bots available at this time.
+-
+05[23:08] -BotServ- Ask a Services admin to create one!
+-
+01[23:09] -> *OperServ* GLOBAL hola senor weirdo
+-
+05[23:09] -OperServ- Access denied.
+-
+03[23:09] * cgdf sets mode: +oghaAsN
+-
+[23:09] Server notice mask (+kcfvGqso)
+-
+[23:09] You are now an IRC Operator
+-
+05[23:09] -irc.chuckwholery.com- *** Global -- from OperServ: cgdf is now an IRC operator.
+-
+05[23:10] -OperServ- Access denied.
+-
+02[23:37] * Disconnected
+Session Close: Sat Jan 18 23:37:13 2014
+
+Session Start: Sat Jan 18 23:37:13 2014
+Session Ident: Status Window
+-
+02[23:37] * Connecting to 127.0.0.1 (6667)
+-
+05[23:37] -irc.chuckwholery.com- *** Looking up your hostname...
+-
+05[23:37] -irc.chuckwholery.com- *** Found your hostname
+-
+[23:37] Welcome to the chuckw IRC Network cgdf!cgdf@localhost
+[23:37] Your host is irc.chuckwholery.com, running version Unreal3.2.10.2
+[23:37] This server was created Fri Nov 22 22:43:03 2013
+-
+[23:37] irc.chuckwholery.com Unreal3.2.10.2 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+-
+[23:37] UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=10 CHANLIMIT=#:10 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 MAXTARGETS=20 are supported by this server
+[23:37] WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=chuckw CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT STATUSMSG=~&@%+ are supported by this server
+[23:37] EXCEPTS INVEX CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS are supported by this server
+-
+[23:37] There are 7 users and 2 invisible on 2 servers
+[23:37] 8 operator(s) online
+[23:37] I have 1 clients and 1 servers
+-
+[23:37] Current local  users: 1  Max: 2
+[23:37] Current global users: 9  Max: 9
+-
+03[23:37] * cgdf sets mode: +iwx
+-
+05[23:37] -NickServ- This nickname is registered and protected.  If it is your
+-
+05[23:37] -NickServ- nick, type /msg NickServ IDENTIFY password.  Otherwise,
+-
+05[23:37] -NickServ- please choose a different nick.
+-
+Session Close: Sat Jan 18 23:37:19 2014
+
+Session Start: Mon Jan 27 08:21:51 2014
+Session Ident: Status Window
+02[08:22] * Connecting to 127.0.0.1 (6667)
+-
+05[08:22] -irc.chuckwholery.com- *** Looking up your hostname...
+-
+05[08:22] -irc.chuckwholery.com- *** Found your hostname
+-
+[08:22] Welcome to the chuckw IRC Network cgdf!cgdf@localhost
+[08:22] Your host is irc.chuckwholery.com, running version Unreal3.2.10.2
+[08:22] This server was created Fri Nov 22 22:43:03 2013
+-
+[08:22] irc.chuckwholery.com Unreal3.2.10.2 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+-
+[08:22] UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=10 CHANLIMIT=#:10 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 MAXTARGETS=20 are supported by this server
+[08:22] WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=chuckw CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT STATUSMSG=~&@%+ are supported by this server
+[08:22] EXCEPTS INVEX CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS are supported by this server
+-
+[08:22] There are 7 users and 2 invisible on 2 servers
+[08:22] 8 operator(s) online
+[08:22] I have 1 clients and 1 servers
+-
+[08:22] Current local  users: 1  Max: 2
+[08:22] Current global users: 9  Max: 9
+-
+03[08:22] * cgdf sets mode: +iwx
+-
+05[08:22] -NickServ- This nickname is registered and protected.  If it is your
+-
+05[08:22] -NickServ- nick, type /msg NickServ IDENTIFY password.  Otherwise,
+-
+05[08:22] -NickServ- please choose a different nick.
+-
+Session Close: Mon Jan 27 09:16:40 2014
+
+Session Start: Thu Feb 06 02:02:44 2014
+Session Ident: Status Window
+02[02:04] * /join: not connected to server
+-
+02[02:04] * Connecting to 127.0.0.1 (6667)
+-
+05[02:04] -irc.chuckwholery.com- *** Looking up your hostname...
+-
+05[02:04] -irc.chuckwholery.com- *** Found your hostname
+-
+[02:04] Welcome to the chuckw IRC Network VM1_Guy!cgdf@localhost
+[02:04] Your host is irc.chuckwholery.com, running version Unreal3.2.10.2
+[02:04] This server was created Fri Nov 22 22:43:03 2013
+-
+[02:04] irc.chuckwholery.com Unreal3.2.10.2 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+-
+[02:04] UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=10 CHANLIMIT=#:10 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 MAXTARGETS=20 are supported by this server
+[02:04] WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=chuckw CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT STATUSMSG=~&@%+ are supported by this server
+[02:04] EXCEPTS INVEX CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS are supported by this server
+-
+[02:04] There are 7 users and 2 invisible on 2 servers
+[02:04] 8 operator(s) online
+[02:04] I have 1 clients and 1 servers
+-
+[02:04] Current local  users: 1  Max: 3
+[02:04] Current global users: 9  Max: 10
+-
+03[02:04] * VM1_Guy sets mode: +iwx
+-
+Session Close: Thu Feb 06 02:16:02 2014
+
+Session Start: Fri Feb 07 10:49:03 2014
+Session Ident: Status Window
+02[10:55] * Connecting to 127.0.0.1 (6667)
+-
+05[10:55] -irc.chuckwholery.com- *** Looking up your hostname...
+-
+05[10:55] -irc.chuckwholery.com- *** Found your hostname
+-
+[10:55] Welcome to the chuckw IRC Network VM1_Server!cgdf@localhost
+[10:55] Your host is irc.chuckwholery.com, running version Unreal3.2.10.2
+[10:55] This server was created Fri Nov 22 22:43:03 2013
+-
+[10:55] irc.chuckwholery.com Unreal3.2.10.2 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+-
+[10:55] UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=10 CHANLIMIT=#:10 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 MAXTARGETS=20 are supported by this server
+[10:55] WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=chuckw CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT STATUSMSG=~&@%+ are supported by this server
+[10:55] EXCEPTS INVEX CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS are supported by this server
+-
+[10:55] There are 7 users and 3 invisible on 2 servers
+[10:55] 8 operator(s) online
+[10:55] 1 channels formed
+[10:55] I have 2 clients and 1 servers
+-
+[10:55] Current local  users: 2  Max: 3
+[10:55] Current global users: 10  Max: 10
+-
+03[10:55] * VM1_Server sets mode: +iwx
+-
+02[10:55] * Disconnected
+Session Close: Fri Feb 07 10:55:12 2014
+
+Session Start: Fri Feb 07 10:55:12 2014
+Session Ident: Status Window
+-
+02[10:55] * Connecting to 127.0.0.1 (6667)
+-
+05[10:55] -irc.chuckwholery.com- *** Looking up your hostname...
+-
+05[10:55] -irc.chuckwholery.com- *** Found your hostname (cached)
+-
+[10:55] Welcome to the chuckw IRC Network VM1_Server!cgdf@localhost
+[10:55] Your host is irc.chuckwholery.com, running version Unreal3.2.10.2
+[10:55] This server was created Fri Nov 22 22:43:03 2013
+-
+[10:55] irc.chuckwholery.com Unreal3.2.10.2 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+-
+[10:55] UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=10 CHANLIMIT=#:10 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 MAXTARGETS=20 are supported by this server
+[10:55] WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=chuckw CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT STATUSMSG=~&@%+ are supported by this server
+[10:55] EXCEPTS INVEX CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS are supported by this server
+-
+[10:55] There are 7 users and 3 invisible on 2 servers
+[10:55] 8 operator(s) online
+[10:55] 1 channels formed
+[10:55] I have 2 clients and 1 servers
+-
+[10:55] Current local  users: 2  Max: 3
+[10:55] Current global users: 10  Max: 10
+-
+03[10:55] * VM1_Server sets mode: +iwx
+-
+Session Close: Fri Feb 07 16:31:33 2014
+
+Session Start: Fri Feb 07 20:18:39 2014
+Session Ident: Status Window
+02[20:18] * Connecting to 127.0.0.1 (6667)
+-
+05[20:18] -irc.chuckwholery.com- *** Looking up your hostname...
+-
+05[20:18] -irc.chuckwholery.com- *** Found your hostname
+-
+[20:18] Welcome to the chuckw IRC Network VM1_Server!cgdf@localhost
+[20:18] Your host is irc.chuckwholery.com, running version Unreal3.2.10.2
+[20:18] This server was created Fri Nov 22 22:43:03 2013
+-
+[20:18] irc.chuckwholery.com Unreal3.2.10.2 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+-
+[20:18] UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=10 CHANLIMIT=#:10 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 MAXTARGETS=20 are supported by this server
+[20:18] WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=chuckw CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT STATUSMSG=~&@%+ are supported by this server
+[20:18] EXCEPTS INVEX CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS are supported by this server
+-
+[20:18] There are 1 users and 0 invisible on 1 servers
+[20:18] 1 unknown connection(s)
+[20:18] I have 1 clients and 0 servers
+-
+[20:18] Current local  users: 1  Max: 3
+[20:18] Current global users: 1  Max: 1
+-
+03[20:18] * VM1_Server sets mode: +iwx
+-
+05[20:18] -Global- Services are now back online - have a nice day
+-
+02[20:19] * You are not on a channel
+-
+02[20:19] * You are not on a channel
+-
+02[20:19] * You are not on a channel
+-
+02[20:34] * Disconnected
+Session Close: Fri Feb 07 20:34:49 2014
+
+Session Start: Fri Feb 07 20:34:49 2014
+Session Ident: Status Window
+-
+02[20:34] * Connecting to irc.chuckwholery.com (6667)
+-
+02[20:35] * Unable to resolve server
+-
+02[20:35] * Connect retry #1 irc.chuckwholery.com (6667)
+-
+02[20:35] * Connect cancelled
+-
+02[20:35] * Connecting to irc.chuckwholery.com (6667)
+-
+02[20:35] * Unable to resolve server
+-
+02[20:35] * Connect retry #1 irc.chuckwholery.com (6667)
+-
+02[20:35] * Unable to resolve server
+-
+02[20:35] * Connect retry #2 irc.chuckwholery.com (6667)
+-
+02[20:35] * Connect cancelled
+Session Close: Fri Feb 07 20:35:58 2014
+
+Session Start: Fri Feb 07 20:36:46 2014
+Session Ident: Status Window
+02[20:36] * Connecting to irc.chuckwholery.com (6667)
+-
+02[20:37] * Unable to resolve server
+-
+02[20:37] * Connect retry #1 irc.chuckwholery.com (6667)
+-
+02[20:37] * Unable to resolve server
+-
+02[20:37] * Connect retry #2 irc.chuckwholery.com (6667)
+-
+Session Close: Fri Feb 07 20:37:38 2014
+
+Session Start: Fri Feb 07 20:54:41 2014
+Session Ident: Status Window
+02[20:54] * Connecting to irc.chuckwholery.com (6667)
+-
+02[20:55] * Unable to resolve server
+-
+02[20:55] * Connect retry #1 irc.chuckwholery.com (6667)
+-
+02[20:55] * Unable to resolve server
+-
+02[20:55] * Connect retry #2 irc.chuckwholery.com (6667)
+-
+02[20:55] * Unable to resolve server
+-
+02[20:55] * Connect retry #3 irc.chuckwholery.com (6667)
+-
+02[20:55] * Connect cancelled
+Session Close: Fri Feb 07 20:55:54 2014
+
+Session Start: Fri Feb 07 20:57:25 2014
+Session Ident: Status Window
+02[20:57] * Connecting to irc.chuckwholery.com (6667)
+-
+02[20:57] * Unable to resolve server
+-
+02[20:57] * Connect retry #1 irc.chuckwholery.com (6667)
+-
+Session Close: Fri Feb 07 20:58:06 2014
+
+Session Start: Fri Feb 07 20:58:09 2014
+Session Ident: Status Window
+02[21:00] * Connecting to 127.0.0.1 (6667)
+-
+05[21:00] -irc.chuckwholery.com- *** Looking up your hostname...
+-
+05[21:00] -irc.chuckwholery.com- *** Found your hostname
+-
+[21:00] Welcome to the chuckw IRC Network dude_man!cgdf@localhost
+[21:00] Your host is irc.chuckwholery.com, running version Unreal3.2.10.2
+[21:00] This server was created Fri Nov 22 22:43:03 2013
+-
+[21:00] irc.chuckwholery.com Unreal3.2.10.2 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+-
+[21:00] UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=10 CHANLIMIT=#:10 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 MAXTARGETS=20 are supported by this server
+[21:00] WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=chuckw CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT STATUSMSG=~&@%+ are supported by this server
+[21:00] EXCEPTS INVEX CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS are supported by this server
+-
+[21:00] There are 7 users and 4 invisible on 2 servers
+[21:00] 8 operator(s) online
+[21:00] 1 channels formed
+[21:00] I have 3 clients and 1 servers
+-
+[21:00] Current local  users: 3  Max: 3
+[21:00] Current global users: 11  Max: 11
+-
+03[21:00] * dude_man sets mode: +iwx
+-
+[21:13] OPER Not enough parameters
+[21:13] OPER Not enough parameters
+01[21:19] <#after> No such nick/channel
+-
+02[21:21] * Disconnected
+Session Close: Fri Feb 07 21:21:00 2014
+
+Session Start: Fri Feb 07 21:21:00 2014
+Session Ident: Status Window
+-
+02[21:21] * /join: not connected to server
+-
+02[21:21] * Connecting to 127.0.0.1 (6667)
+-
+05[21:21] -irc.chuckwholery.com- *** Looking up your hostname...
+-
+05[21:21] -irc.chuckwholery.com- *** Found your hostname
+-
+[21:21] Welcome to the chuckw IRC Network dude_man!cgdf@localhost
+[21:21] Your host is irc.chuckwholery.com, running version Unreal3.2.10.2
+[21:21] This server was created Fri Nov 22 22:43:03 2013
+-
+[21:21] irc.chuckwholery.com Unreal3.2.10.2 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+-
+[21:21] UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=10 CHANLIMIT=#:10 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 MAXTARGETS=20 are supported by this server
+[21:21] WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=chuckw CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT STATUSMSG=~&@%+ are supported by this server
+[21:21] EXCEPTS INVEX CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS are supported by this server
+-
+[21:21] There are 7 users and 2 invisible on 2 servers
+[21:21] 8 operator(s) online
+[21:21] I have 1 clients and 1 servers
+-
+[21:21] Current local  users: 1  Max: 3
+[21:21] Current global users: 9  Max: 11
+-
+03[21:21] * dude_man sets mode: +iwx
+-
+Session Close: Fri Feb 07 21:30:32 2014
+
+Session Start: Sun Feb 09 00:02:16 2014
+Session Ident: Status Window
+
+Session Start: Sun Feb 09 00:02:16 2014
+Session Ident: Status Window
+02[00:02] * Connecting to 127.0.0.1 (6667)
+-
+05[00:02] -irc.chuckwholery.com- *** Looking up your hostname...
+-
+05[00:02] -irc.chuckwholery.com- *** Found your hostname
+-
+[00:02] Welcome to the chuckw IRC Network dude_man!cgdf@localhost
+[00:02] Your host is irc.chuckwholery.com, running version Unreal3.2.10.2
+[00:02] This server was created Fri Nov 22 22:43:03 2013
+-
+[00:02] irc.chuckwholery.com Unreal3.2.10.2 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+-
+[00:02] UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=10 CHANLIMIT=#:10 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 MAXTARGETS=20 are supported by this server
+[00:02] WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=chuckw CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT STATUSMSG=~&@%+ are supported by this server
+[00:02] EXCEPTS INVEX CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS are supported by this server
+-
+[00:02] There are 7 users and 2 invisible on 2 servers
+[00:02] 8 operator(s) online
+[00:02] I have 1 clients and 1 servers
+-
+[00:02] Current local  users: 1  Max: 3
+[00:02] Current global users: 9  Max: 9
+-
+03[00:02] * dude_man sets mode: +iwx
+-
+Session Close: Sun Feb 09 00:34:43 2014
+
+Session Start: Sun Feb 09 00:02:16 2014
+Session Ident: Status Window
+
+Session Start: Sun Feb 09 00:02:16 2014
+Session Ident: Status Window
+02[00:02] * Connecting to 127.0.0.1 (6667)
+-
+05[00:02] -irc.chuckwholery.com- *** Looking up your hostname...
+-
+05[00:02] -irc.chuckwholery.com- *** Found your hostname
+-
+[00:02] Welcome to the chuckw IRC Network dude_man!cgdf@localhost
+[00:02] Your host is irc.chuckwholery.com, running version Unreal3.2.10.2
+[00:02] This server was created Fri Nov 22 22:43:03 2013
+-
+[00:02] irc.chuckwholery.com Unreal3.2.10.2 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+-
+[00:02] UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=10 CHANLIMIT=#:10 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 MAXTARGETS=20 are supported by this server
+[00:02] WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=chuckw CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT STATUSMSG=~&@%+ are supported by this server
+[00:02] EXCEPTS INVEX CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS are supported by this server
+-
+[00:02] There are 7 users and 2 invisible on 2 servers
+[00:02] 8 operator(s) online
+[00:02] I have 1 clients and 1 servers
+-
+[00:02] Current local  users: 1  Max: 3
+[00:02] Current global users: 9  Max: 9
+-
+03[00:02] * dude_man sets mode: +iwx
+-
+Session Close: Sun Feb 09 00:02:54 2014
+
+Session Start: Sun Feb 09 00:34:45 2014
+Session Ident: Status Window
+Session Close: Sun Feb 09 00:34:49 2014
+
+Session Start: Sun Feb 09 08:36:32 2014
+Session Ident: Status Window
+02[08:36] * Connecting to 127.0.0.1 (6667)
+-
+05[08:36] -irc.chuckwholery.com- *** Looking up your hostname...
+-
+05[08:36] -irc.chuckwholery.com- *** Found your hostname
+-
+[08:36] Welcome to the chuckw IRC Network dude_man!cgdf@localhost
+[08:36] Your host is irc.chuckwholery.com, running version Unreal3.2.10.2
+[08:36] This server was created Fri Nov 22 22:43:03 2013
+-
+[08:36] irc.chuckwholery.com Unreal3.2.10.2 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+-
+[08:36] UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=10 CHANLIMIT=#:10 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 MAXTARGETS=20 are supported by this server
+[08:36] WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=chuckw CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT STATUSMSG=~&@%+ are supported by this server
+[08:36] EXCEPTS INVEX CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS are supported by this server
+-
+[08:36] There are 7 users and 2 invisible on 2 servers
+[08:36] 8 operator(s) online
+[08:36] I have 1 clients and 1 servers
+-
+[08:36] Current local  users: 1  Max: 3
+[08:36] Current global users: 9  Max: 9
+-
+03[08:36] * dude_man sets mode: +iwx
+-
+Session Close: Sun Feb 09 09:39:17 2014
+
+Session Start: Sun Feb 09 09:54:12 2014
+Session Ident: Status Window
+02[09:54] * Connecting to 127.0.0.1 (6667)
+-
+05[09:54] -irc.chuckwholery.com- *** Looking up your hostname...
+-
+05[09:54] -irc.chuckwholery.com- *** Found your hostname
+-
+[09:54] Welcome to the chuckw IRC Network dude_man!cgdf@localhost
+[09:54] Your host is irc.chuckwholery.com, running version Unreal3.2.10.2
+[09:54] This server was created Fri Nov 22 22:43:03 2013
+-
+[09:54] irc.chuckwholery.com Unreal3.2.10.2 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+-
+[09:54] UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=10 CHANLIMIT=#:10 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 MAXTARGETS=20 are supported by this server
+[09:54] WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=chuckw CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT STATUSMSG=~&@%+ are supported by this server
+[09:54] EXCEPTS INVEX CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS are supported by this server
+-
+[09:54] There are 7 users and 2 invisible on 2 servers
+[09:54] 8 operator(s) online
+[09:54] I have 1 clients and 1 servers
+-
+[09:54] Current local  users: 1  Max: 3
+[09:54] Current global users: 9  Max: 9
+-
+03[09:54] * dude_man sets mode: +iwx
+-
+Session Close: Sun Feb 09 10:34:04 2014
+
+Session Start: Fri Mar 07 20:09:14 2014
+Session Ident: Status Window
+02[20:09] * Connecting to 127.0.0.1 (6667)
+-
+05[20:09] -irc.chuckwholery.com- *** Looking up your hostname...
+-
+05[20:09] -irc.chuckwholery.com- *** Found your hostname
+-
+[20:09] Welcome to the chuckw IRC Network dude_man!cgdf@localhost
+[20:09] Your host is irc.chuckwholery.com, running version Unreal3.2.10.2
+[20:09] This server was created Fri Nov 22 22:43:03 2013
+-
+[20:09] irc.chuckwholery.com Unreal3.2.10.2 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+-
+[20:09] UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=10 CHANLIMIT=#:10 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 MAXTARGETS=20 are supported by this server
+[20:09] WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=chuckw CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT STATUSMSG=~&@%+ are supported by this server
+[20:09] EXCEPTS INVEX CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS are supported by this server
+-
+[20:09] There are 1 users and 0 invisible on 1 servers
+[20:09] 1 unknown connection(s)
+[20:09] I have 1 clients and 0 servers
+-
+[20:09] Current local  users: 1  Max: 3
+[20:09] Current global users: 1  Max: 1
+-
+03[20:09] * dude_man sets mode: +iwx
+-
+05[20:09] -Global- Services are now back online - have a nice day
+-
+02[20:09] * /join: insufficient parameters
+-
+02[20:10] * Disconnected
+Session Close: Fri Mar 07 20:10:25 2014
+
+Session Start: Fri Mar 07 23:10:06 2014
+Session Ident: Status Window
+02[23:12] * Connecting to 127.0.0.1 (6667)
+-
+02[23:12] * Unable to connect to server (Connection refused)
+-
+02[23:12] * Connect retry #1 127.0.0.1 (6667)
+-
+02[23:12] * Unable to connect to server (Connection refused)
+-
+02[23:12] * Connect retry #2 127.0.0.1 (6667)
+-
+02[23:12] * Unable to connect to server (Connection refused)
+-
+02[23:12] * Connect retry #3 127.0.0.1 (6667)
+-
+02[23:12] * Unable to connect to server (Connection refused)
+-
+02[23:12] * Connect retry #4 127.0.0.1 (6667)
+-
+02[23:12] * Unable to connect to server (Connection refused)
+-
+02[23:12] * Connect retry #5 127.0.0.1 (6667)
+-
+02[23:12] * Unable to connect to server (Connection refused)
+-
+02[23:12] * Connect retry #6 127.0.0.1 (6667)
+-
+02[23:12] * Unable to connect to server (Connection refused)
+-
+02[23:12] * Connect retry #7 127.0.0.1 (6667)
+-
+02[23:12] * Unable to connect to server (Connection refused)
+-
+02[23:12] * Connect retry #8 127.0.0.1 (6667)
+-
+02[23:13] * Unable to connect to server (Connection refused)
+-
+02[23:13] * Connect retry #9 127.0.0.1 (6667)
+-
+02[23:13] * Unable to connect to server (Connection refused)
+-
+02[23:13] * Connect retry #10 127.0.0.1 (6667)
+-
+02[23:13] * Unable to connect to server (Connection refused)
+-
+02[23:13] * Connect retry #11 127.0.0.1 (6667)
+-
+02[23:13] * Unable to connect to server (Connection refused)
+-
+02[23:13] * Connect retry #12 127.0.0.1 (6667)
+-
+02[23:13] * Unable to connect to server (Connection refused)
+-
+02[23:13] * Connect retry #13 127.0.0.1 (6667)
+-
+02[23:13] * Unable to connect to server (Connection refused)
+-
+02[23:13] * Connect retry #14 127.0.0.1 (6667)
+-
+02[23:13] * Unable to connect to server (Connection refused)
+-
+02[23:13] * Connect retry #15 127.0.0.1 (6667)
+-
+02[23:13] * Unable to connect to server (Connection refused)
+-
+02[23:13] * Connect retry #16 127.0.0.1 (6667)
+-
+02[23:13] * Unable to connect to server (Connection refused)
+-
+02[23:13] * Connect retry #17 127.0.0.1 (6667)
+-
+02[23:13] * Unable to connect to server (Connection refused)
+-
+02[23:13] * Connect retry #18 127.0.0.1 (6667)
+-
+02[23:13] * Unable to connect to server (Connection refused)
+-
+02[23:13] * Connect retry #19 127.0.0.1 (6667)
+-
+02[23:13] * Unable to connect to server (Connection refused)
+-
+02[23:13] * Connect retry #20 127.0.0.1 (6667)
+-
+02[23:13] * Unable to connect to server (Connection refused)
+-
+02[23:13] * Connect retry #21 127.0.0.1 (6667)
+-
+02[23:13] * Unable to connect to server (Connection refused)
+-
+02[23:13] * Connect cancelled
+Session Close: Fri Mar 07 23:19:01 2014
+
+Session Start: Sat Mar 08 08:29:36 2014
+Session Ident: Status Window
+02[08:30] * Connecting to 127.0.0.1 (6667)
+-
+05[08:30] -irc.chuckwholery.com- *** Looking up your hostname...
+-
+05[08:30] -irc.chuckwholery.com- *** Found your hostname
+-
+[08:30] Welcome to the chuckw IRC Network dude_man!cgdf@localhost
+[08:30] Your host is irc.chuckwholery.com, running version Unreal3.2.10.2
+[08:30] This server was created Fri Nov 22 22:43:03 2013
+-
+[08:30] irc.chuckwholery.com Unreal3.2.10.2 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+-
+[08:30] UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=10 CHANLIMIT=#:10 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 MAXTARGETS=20 are supported by this server
+[08:30] WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=chuckw CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT STATUSMSG=~&@%+ are supported by this server
+[08:30] EXCEPTS INVEX CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS are supported by this server
+-
+[08:30] There are 7 users and 2 invisible on 2 servers
+[08:30] 8 operator(s) online
+[08:30] I have 1 clients and 1 servers
+-
+[08:30] Current local  users: 1  Max: 3
+[08:30] Current global users: 9  Max: 9
+-
+03[08:30] * dude_man sets mode: +iwx
+-
+Session Close: Sat Mar 08 08:34:49 2014
+
+Session Start: Sat Mar 08 08:34:53 2014
+Session Ident: Status Window
+02[08:34] * Connecting to 127.0.0.1 (6667)
+-
+05[08:34] -irc.chuckwholery.com- *** Looking up your hostname...
+-
+05[08:34] -irc.chuckwholery.com- *** Found your hostname (cached)
+-
+[08:34] Welcome to the chuckw IRC Network dude_man!cgdf@localhost
+[08:34] Your host is irc.chuckwholery.com, running version Unreal3.2.10.2
+[08:34] This server was created Fri Nov 22 22:43:03 2013
+-
+[08:34] irc.chuckwholery.com Unreal3.2.10.2 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+-
+[08:34] UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=10 CHANLIMIT=#:10 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 MAXTARGETS=20 are supported by this server
+[08:34] WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=chuckw CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT STATUSMSG=~&@%+ are supported by this server
+[08:34] EXCEPTS INVEX CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS are supported by this server
+-
+[08:34] There are 7 users and 2 invisible on 2 servers
+[08:34] 8 operator(s) online
+[08:34] I have 1 clients and 1 servers
+-
+[08:34] Current local  users: 1  Max: 3
+[08:34] Current global users: 9  Max: 9
+-
+03[08:34] * dude_man sets mode: +iwx
+-
+Session Close: Sat Mar 08 08:46:39 2014
+
+Session Start: Sat Mar 08 08:46:42 2014
+Session Ident: Status Window
+02[08:48] * Connecting to 127.0.0.1 (6667)
+-
+05[08:48] -irc.chuckwholery.com- *** Looking up your hostname...
+-
+05[08:48] -irc.chuckwholery.com- *** Found your hostname
+-
+[08:48] Welcome to the chuckw IRC Network dude_man!cgdf@localhost
+[08:48] Your host is irc.chuckwholery.com, running version Unreal3.2.10.2
+[08:48] This server was created Fri Nov 22 22:43:03 2013
+-
+[08:48] irc.chuckwholery.com Unreal3.2.10.2 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+-
+[08:48] UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=10 CHANLIMIT=#:10 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 MAXTARGETS=20 are supported by this server
+[08:48] WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=chuckw CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT STATUSMSG=~&@%+ are supported by this server
+[08:48] EXCEPTS INVEX CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS are supported by this server
+-
+[08:48] There are 7 users and 2 invisible on 2 servers
+[08:48] 8 operator(s) online
+[08:48] I have 1 clients and 1 servers
+-
+[08:48] Current local  users: 1  Max: 3
+[08:48] Current global users: 9  Max: 9
+-
+03[08:48] * dude_man sets mode: +iwx
+-
+Session Close: Sat Mar 08 08:58:40 2014
+
+Session Start: Sat Mar 08 10:07:40 2014
+Session Ident: Status Window
+02[10:07] * Connecting to 192.168.232.137 (6667)
+-
+05[10:07] -irc.chuckwholery.com- *** Looking up your hostname...
+-
+05[10:08] -irc.chuckwholery.com- *** Couldn't resolve your hostname; using your IP address instead
+-
+[10:08] Welcome to the chuckw IRC Network dude_man!cgdf@192.168.232.128
+[10:08] Your host is irc.chuckwholery.com, running version Unreal3.2.10.2
+[10:08] This server was created Fri Nov 22 22:43:03 2013
+-
+[10:08] irc.chuckwholery.com Unreal3.2.10.2 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+-
+[10:08] UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=10 CHANLIMIT=#:10 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 MAXTARGETS=20 are supported by this server
+[10:08] WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=chuckw CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT STATUSMSG=~&@%+ are supported by this server
+[10:08] EXCEPTS INVEX CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS are supported by this server
+-
+[10:08] There are 7 users and 2 invisible on 2 servers
+[10:08] 8 operator(s) online
+[10:08] I have 1 clients and 1 servers
+-
+[10:08] Current local  users: 1  Max: 1
+[10:08] Current global users: 9  Max: 9
+-
+03[10:08] * dude_man sets mode: +iwx
+-
+03[10:08] Local host: WinXPSP2One.localdomain (192.168.232.128)
+-
+Session Close: Sat Mar 08 10:17:54 2014
+
+Session Start: Sat Mar 08 15:03:55 2014
+Session Ident: Status Window
+02[15:04] * Connecting to 192.168.232.138 (6667)
+-
+05[15:04] -irc.chuckwholery.com- *** Looking up your hostname...
+-
+05[15:05] -irc.chuckwholery.com- *** Couldn't resolve your hostname; using your IP address instead
+-
+[15:05] Welcome to the chuckw IRC Network dude_man!cgdf@192.168.232.128
+[15:05] Your host is irc.chuckwholery.com, running version Unreal3.2.10.2
+[15:05] This server was created Fri Nov 22 22:43:03 2013
+-
+[15:05] irc.chuckwholery.com Unreal3.2.10.2 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+-
+[15:05] UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=10 CHANLIMIT=#:10 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 MAXTARGETS=20 are supported by this server
+[15:05] WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=chuckw CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT STATUSMSG=~&@%+ are supported by this server
+[15:05] EXCEPTS INVEX CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS are supported by this server
+-
+[15:05] There are 1 users and 0 invisible on 1 servers
+[15:05] I have 1 clients and 0 servers
+-
+[15:05] Current local  users: 1  Max: 1
+[15:05] Current global users: 1  Max: 1
+-
+03[15:05] Local host: WinXPSP2One.localdomain (192.168.232.128)
+-
+03[15:05] * dude_man sets mode: +iwx
+-
+02[15:06] * Disconnected
+Session Close: Sat Mar 08 15:06:28 2014
+
+Session Start: Sat Mar 08 15:06:28 2014
+Session Ident: Status Window
+-
+02[15:06] * Connecting to 192.168.232.138 (6667)
+-
+05[15:06] -irc.chuckwholery.com- *** Looking up your hostname...
+-
+05[15:07] -irc.chuckwholery.com- *** Couldn't resolve your hostname; using your IP address instead
+-
+[15:07] Welcome to the chuckw IRC Network dude_man!cgdf@192.168.232.128
+[15:07] Your host is irc.chuckwholery.com, running version Unreal3.2.10.2
+[15:07] This server was created Fri Nov 22 22:43:03 2013
+-
+[15:07] irc.chuckwholery.com Unreal3.2.10.2 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+-
+[15:07] UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=10 CHANLIMIT=#:10 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 MAXTARGETS=20 are supported by this server
+[15:07] WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=chuckw CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT STATUSMSG=~&@%+ are supported by this server
+[15:07] EXCEPTS INVEX CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS are supported by this server
+-
+[15:07] There are 1 users and 0 invisible on 1 servers
+[15:07] I have 1 clients and 0 servers
+-
+[15:07] Current local  users: 1  Max: 1
+[15:07] Current global users: 1  Max: 1
+-
+03[15:07] * dude_man sets mode: +iwx
+-
+03[15:07] Local host: WinXPSP2One.localdomain (192.168.232.128)
+-
+03[15:08] * [10053] Software caused connection abort
+-
+02[15:08] * Disconnected
+Session Close: Sat Mar 08 15:08:19 2014
+
+Session Start: Sat Mar 08 15:08:19 2014
+Session Ident: Status Window
+-
+02[15:08] * Connect retry #1 192.168.232.138 (6667)
+-
+02[15:08] * Unable to connect to server (Connection refused)
+-
+02[15:08] * Connect retry #2 192.168.232.138 (6667)
+-
+02[15:08] * Unable to connect to server (Connection refused)
+-
+02[15:08] * Connect retry #3 192.168.232.138 (6667)
+-
+02[15:08] * Unable to connect to server (Connection refused)
+-
+02[15:08] * Connect retry #4 192.168.232.138 (6667)
+-
+02[15:08] * Unable to connect to server (Connection refused)
+-
+02[15:08] * Connect retry #5 192.168.232.138 (6667)
+-
+02[15:08] * Unable to connect to server (Connection refused)
+-
+02[15:08] * Connect retry #6 192.168.232.138 (6667)
+-
+02[15:08] * Unable to connect to server (Connection refused)
+-
+02[15:08] * Connect retry #7 192.168.232.138 (6667)
+-
+02[15:08] * Unable to connect to server (Connection refused)
+-
+02[15:08] * Connect retry #8 192.168.232.138 (6667)
+-
+02[15:08] * Unable to connect to server (Connection refused)
+-
+02[15:08] * Connect retry #9 192.168.232.138 (6667)
+-
+02[15:08] * Unable to connect to server (Connection refused)
+-
+02[15:09] * Connect retry #10 192.168.232.138 (6667)
+-
+02[15:09] * Unable to connect to server (Connection refused)
+-
+02[15:09] * Connect retry #11 192.168.232.138 (6667)
+-
+02[15:09] * Unable to connect to server (Connection refused)
+-
+02[15:09] * Connect retry #12 192.168.232.138 (6667)
+-
+02[15:09] * Unable to connect to server (Connection refused)
+-
+02[15:09] * Connect retry #13 192.168.232.138 (6667)
+-
+02[15:09] * Unable to connect to server (Connection refused)
+-
+02[15:09] * Connect retry #14 192.168.232.138 (6667)
+-
+02[15:09] * Unable to connect to server (Connection refused)
+-
+02[15:09] * Connect retry #15 192.168.232.138 (6667)
+-
+05[15:09] -irc.chuckwholery.com- *** Looking up your hostname...
+-
+05[15:10] -irc.chuckwholery.com- *** Couldn't resolve your hostname; using your IP address instead
+-
+03[15:10] * [10054] Connection reset by peer
+-
+02[15:10] * Disconnected
+-
+02[15:10] * Connect retry #16 192.168.232.138 (6667)
+-
+05[15:10] -irc.chuckwholery.com- *** Looking up your hostname...
+-
+05[15:10] -irc.chuckwholery.com- *** Couldn't resolve your hostname; using your IP address instead
+-
+[15:10] Welcome to the chuckw IRC Network dude_man!cgdf@192.168.232.128
+[15:10] Your host is irc.chuckwholery.com, running version Unreal3.2.10.2
+[15:10] This server was created Fri Nov 22 22:43:03 2013
+-
+[15:10] irc.chuckwholery.com Unreal3.2.10.2 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+-
+[15:10] UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=10 CHANLIMIT=#:10 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 MAXTARGETS=20 are supported by this server
+[15:10] WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=chuckw CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT STATUSMSG=~&@%+ are supported by this server
+[15:10] EXCEPTS INVEX CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS are supported by this server
+-
+[15:10] There are 7 users and 2 invisible on 2 servers
+[15:10] 8 operator(s) online
+[15:10] I have 1 clients and 1 servers
+-
+[15:10] Current local  users: 1  Max: 1
+[15:10] Current global users: 9  Max: 9
+-
+03[15:10] * dude_man sets mode: +iwx
+-
+03[15:10] Local host: WinXPSP2One.localdomain (192.168.232.128)
+-
+02[15:11] * Disconnected
+Session Close: Sat Mar 08 15:11:09 2014
+
+Session Start: Sat Mar 08 15:11:09 2014
+Session Ident: Status Window
+-
+02[15:11] * Connecting to 192.168.232.138 (6667)
+-
+05[15:11] -irc.chuckwholery.com- *** Looking up your hostname...
+-
+02[15:11] * Disconnected
+-
+02[15:11] * Connecting to 192.168.232.138 (6667)
+-
+05[15:11] -irc.chuckwholery.com- *** Looking up your hostname...
+-
+Session Close: Sat Mar 08 15:11:45 2014
+
+Session Start: Sat Mar 08 15:11:50 2014
+Session Ident: Status Window
+02[15:13] * Connecting to 127.0.0.1 (6667)
+-
+02[15:13] * Unable to connect to server (Connection refused)
+-
+02[15:13] * Connect retry #1 127.0.0.1 (6667)
+-
+02[15:13] * Unable to connect to server (Connection refused)
+-
+02[15:13] * Connect retry #2 127.0.0.1 (6667)
+-
+02[15:13] * Unable to connect to server (Connection refused)
+-
+02[15:13] * Connect retry #3 127.0.0.1 (6667)
+-
+02[15:13] * Unable to connect to server (Connection refused)
+-
+02[15:13] * Connect retry #4 127.0.0.1 (6667)
+-
+02[15:13] * Unable to connect to server (Connection refused)
+-
+02[15:13] * Connect cancelled
+-
+02[15:13] * Connecting to 192.168.232.138 (6667)
+-
+05[15:13] -irc.chuckwholery.com- *** Looking up your hostname...
+-
+05[15:14] -irc.chuckwholery.com- *** Couldn't resolve your hostname; using your IP address instead
+-
+[15:14] Welcome to the chuckw IRC Network WinXPSP3!cgdf@192.168.232.128
+[15:14] Your host is irc.chuckwholery.com, running version Unreal3.2.10.2
+[15:14] This server was created Fri Nov 22 22:43:03 2013
+-
+[15:14] irc.chuckwholery.com Unreal3.2.10.2 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+-
+[15:14] UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=10 CHANLIMIT=#:10 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 MAXTARGETS=20 are supported by this server
+[15:14] WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=chuckw CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT STATUSMSG=~&@%+ are supported by this server
+[15:14] EXCEPTS INVEX CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS are supported by this server
+-
+[15:14] There are 7 users and 2 invisible on 2 servers
+[15:14] 8 operator(s) online
+[15:14] I have 1 clients and 1 servers
+-
+[15:14] Current local  users: 1  Max: 1
+[15:14] Current global users: 9  Max: 9
+-
+03[15:14] * WinXPSP3 sets mode: +iwx
+-
+03[15:14] Local host: WinXPSP2One.localdomain (192.168.232.128)
+-
+03[15:16] * [10053] Software caused connection abort
+-
+02[15:16] * Disconnected
+Session Close: Sat Mar 08 15:16:31 2014
+
+Session Start: Sat Mar 08 15:16:31 2014
+Session Ident: Status Window
+-
+02[15:16] * Connect retry #1 192.168.232.138 (6667)
+-
+02[15:16] * Unable to connect to server (Connection refused)
+-
+02[15:16] * Connect retry #2 192.168.232.138 (6667)
+-
+02[15:16] * Unable to connect to server (Connection refused)
+-
+02[15:16] * Connect retry #3 192.168.232.138 (6667)
+-
+02[15:16] * Unable to connect to server (Connection refused)
+-
+02[15:16] * Connect retry #4 192.168.232.138 (6667)
+-
+02[15:17] * Unable to connect to server (Connection refused)
+-
+02[15:17] * Connect retry #5 192.168.232.138 (6667)
+-
+02[15:17] * Unable to connect to server (Connection refused)
+-
+02[15:17] * Connect retry #6 192.168.232.138 (6667)
+-
+02[15:17] * Unable to connect to server (Connection refused)
+-
+02[15:17] * Connect retry #7 192.168.232.138 (6667)
+-
+02[15:17] * Unable to connect to server (Connection refused)
+-
+02[15:17] * Connect retry #8 192.168.232.138 (6667)
+-
+02[15:17] * Unable to connect to server (Connection refused)
+-
+02[15:17] * Connect retry #9 192.168.232.138 (6667)
+-
+02[15:17] * Unable to connect to server (Connection refused)
+-
+02[15:17] * Connect retry #10 192.168.232.138 (6667)
+-
+02[15:17] * Connect cancelled
+Session Close: Sat Mar 08 15:20:23 2014
+
+Session Start: Sat Mar 08 15:58:16 2014
+Session Ident: Status Window
+02[15:58] * Connecting to 127.0.0.1 (6667)
+-
+05[15:58] -irc.chuckwholery.com- *** Looking up your hostname...
+-
+05[15:58] -irc.chuckwholery.com- *** Found your hostname
+-
+[15:58] Welcome to the chuckw IRC Network WinXPSP3!cgdf@localhost
+[15:58] Your host is irc.chuckwholery.com, running version Unreal3.2.10.2
+[15:58] This server was created Fri Nov 22 22:43:03 2013
+-
+[15:58] irc.chuckwholery.com Unreal3.2.10.2 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+-
+[15:58] UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=10 CHANLIMIT=#:10 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 MAXTARGETS=20 are supported by this server
+[15:58] WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=chuckw CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT STATUSMSG=~&@%+ are supported by this server
+[15:58] EXCEPTS INVEX CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS are supported by this server
+-
+[15:58] There are 7 users and 2 invisible on 2 servers
+[15:58] 8 operator(s) online
+[15:58] I have 1 clients and 1 servers
+-
+[15:58] Current local  users: 1  Max: 3
+[15:58] Current global users: 9  Max: 9
+-
+03[15:58] * WinXPSP3 sets mode: +iwx
+-
+Session Close: Sat Mar 08 16:04:34 2014
+
+Session Start: Sat Mar 08 20:12:14 2014
+Session Ident: Status Window
+02[20:13] * Connecting to 192.168.232.137 (6667)
+-
+05[20:13] -irc.chuckwholery.com- *** Looking up your hostname...
+-
+05[20:13] -irc.chuckwholery.com- *** Couldn't resolve your hostname; using your IP address instead
+-
+[20:13] Welcome to the chuckw IRC Network WinXPSP3!cgdf@192.168.232.128
+[20:13] Your host is irc.chuckwholery.com, running version Unreal3.2.10.2
+[20:13] This server was created Fri Nov 22 22:43:03 2013
+-
+[20:13] irc.chuckwholery.com Unreal3.2.10.2 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+-
+[20:13] UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=10 CHANLIMIT=#:10 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 MAXTARGETS=20 are supported by this server
+[20:13] WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=chuckw CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT STATUSMSG=~&@%+ are supported by this server
+[20:13] EXCEPTS INVEX CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS are supported by this server
+-
+[20:13] There are 7 users and 3 invisible on 2 servers
+[20:13] 8 operator(s) online
+[20:13] 1 channels formed
+[20:13] I have 2 clients and 1 servers
+-
+[20:13] Current local  users: 2  Max: 2
+[20:13] Current global users: 10  Max: 10
+-
+03[20:13] * WinXPSP3 sets mode: +iwx
+-
+03[20:13] Local host: WinXPSP2One.localdomain (192.168.232.128)
+-
+03[20:15] * [10053] Software caused connection abort
+-
+02[20:15] * Disconnected
+Session Close: Sat Mar 08 20:15:55 2014

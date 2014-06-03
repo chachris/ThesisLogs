@@ -1,0 +1,86 @@
+
+Session Start: Sat Mar 08 18:51:39 2014
+Session Ident: Status Window
+02[19:02] * /join: not connected to server
+-
+Session Close: Sat Mar 08 19:09:50 2014
+
+Session Start: Sat Mar 08 19:15:10 2014
+Session Ident: Status Window
+
+Session Start: Sat Mar 08 19:16:08 2014
+Session Ident: Status Window
+Session Close: Sat Mar 08 19:16:14 2014
+
+Session Start: Sat Mar 08 19:42:29 2014
+Session Ident: Status Window
+Session Close: Sat Mar 08 20:02:16 2014
+Session Close: Sat Mar 08 20:02:24 2014
+
+Session Start: Sat Mar 08 20:09:36 2014
+Session Ident: Status Window
+Session Close: Sat Mar 08 20:15:40 2014
+
+Session Start: Sat Mar 08 20:31:48 2014
+Session Ident: Status Window
+Session Close: Sat Mar 08 20:34:13 2014
+
+Session Start: Sat Mar 08 20:56:42 2014
+Session Ident: Status Window
+02[20:57] * Connecting to 127.0.0.1 (6667)
+-
+05[20:57] -irc.winsrvr2008.com- *** Looking up your hostname...
+-
+05[20:57] -irc.winsrvr2008.com- *** Found your hostname
+-
+[20:57] Welcome to the winsrvr2008net IRC Network cT!cT@localhost
+[20:57] Your host is irc.winsrvr2008.com, running version Unreal3.2.10.2
+[20:57] This server was created Fri Nov 22 22:43:03 2013
+-
+[20:57] irc.winsrvr2008.com Unreal3.2.10.2 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+-
+[20:57] UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=10 CHANLIMIT=#:10 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 MAXTARGETS=20 are supported by this server
+[20:57] WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=winsrvr2008net CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT STATUSMSG=~&@%+ are supported by this server
+[20:57] EXCEPTS INVEX CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS are supported by this server
+-
+[20:57] There are 7 users and 2 invisible on 2 servers
+[20:57] 8 operator(s) online
+[20:57] I have 1 clients and 1 servers
+-
+[20:57] Current local  users: 1  Max: 2
+[20:57] Current global users: 9  Max: 9
+-
+03[20:57] * cT sets mode: +iwx
+-
+02[20:59] * Disconnected
+Session Close: Sat Mar 08 20:59:10 2014
+
+Session Start: Sun Apr 27 20:32:22 2014
+Session Ident: Status Window
+02[20:33] * Connecting to 127.0.0.1 (6667)
+-
+05[20:33] -irc.winsrvr2008.com- *** Looking up your hostname...
+-
+05[20:33] -irc.winsrvr2008.com- *** Found your hostname
+-
+[20:33] Welcome to the winsrvr2008net IRC Network cT!cT@localhost
+[20:33] Your host is irc.winsrvr2008.com, running version Unreal3.2.10.2
+[20:33] This server was created Fri Nov 22 22:43:03 2013
+-
+[20:33] irc.winsrvr2008.com Unreal3.2.10.2 iowghraAsORTVSxNCWqBzvdHtGpI lvhopsmntikrRcaqOALQbSeIKVfMCuzNTGjZ
+-
+[20:33] UHNAMES NAMESX SAFELIST HCN MAXCHANNELS=10 CHANLIMIT=#:10 MAXLIST=b:60,e:60,I:60 NICKLEN=30 CHANNELLEN=32 TOPICLEN=307 KICKLEN=307 AWAYLEN=307 MAXTARGETS=20 are supported by this server
+[20:33] WALLCHOPS WATCH=128 WATCHOPTS=A SILENCE=15 MODES=12 CHANTYPES=# PREFIX=(qaohv)~&@%+ CHANMODES=beI,kfL,lj,psmntirRcOAQKVCuzNSMTGZ NETWORK=winsrvr2008net CASEMAPPING=ascii EXTBAN=~,qjncrRa ELIST=MNUCT STATUSMSG=~&@%+ are supported by this server
+[20:33] EXCEPTS INVEX CMDS=KNOCK,MAP,DCCALLOW,USERIP,STARTTLS are supported by this server
+-
+[20:33] There are 1 users and 0 invisible on 1 servers
+[20:33] I have 1 clients and 0 servers
+-
+[20:33] Current local  users: 1  Max: 2
+[20:33] Current global users: 1  Max: 1
+-
+03[20:33] * cT sets mode: +iwx
+-
+04[20:36] DCC Get of ssn.pdf from USA|367279 complete (00:00:02 63.8KB/Sec)
+-
+Session Close: Sun Apr 27 20:40:59 2014
